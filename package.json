@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAKAHAL/bamazon.git"
+  },
+  "author": "makah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAKAHAL/bamazon/issues"
+  },
+  "homepage": "https://github.com/MAKAHAL/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  }
+}
